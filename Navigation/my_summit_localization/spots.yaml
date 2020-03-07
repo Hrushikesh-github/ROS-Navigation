@@ -1,0 +1,22 @@
+HAll:
+    pose:
+        postion:
+            x: 3.4
+            y: 3.09
+            z: 0.0
+        orientation:
+            x: 0.0
+            y: 0.0
+            z: -0.019
+            w: 0.998
+Room:
+    pose:
+        postion:
+            x: -3.184
+            y: 4.669
+            z: 0.0
+        orientation:
+            x: 0.0
+            y: 0.0
+            z: 0.8138
+            w: 0.5811
