@@ -39,5 +39,21 @@ But for this to work, proper configuration must be done
 ### Green line shows the local plan
 <img width="964" alt="summit_planning1" src="https://user-images.githubusercontent.com/56476887/85306326-f0d3e200-b4cb-11ea-8f2b-9bb34de76904.png">
 
+RTAB-Map (Real-Time Appearance-Based Mapping) is a RGB-D SLAM approach based on a loop closure detector. The loop closure detector uses a bag-of-words approach in order to determinate if a new image detected by an RGB-D sensor is from a new location or from a location that it has been already visited.The rtabmap_ros package is an implementation in ROS of the RTAB-Map approach.
+Requirements for RTAB are: 
+A 2D laser which provides sensor_msgs/LaserScan messages.
+Odometry (IMU, wheel encoders, ...) which provides a nav_msgs/Odometry message.
+A calibrated Kinect-like sensor compatible with openni_launch, openni2_launch or freenect_launch ros packages.
+
+### Turtlebot in a environment
+<img width="910" alt="sensors_rviz" src="https://user-images.githubusercontent.com/56476887/85308567-f7178d80-b4ce-11ea-80ff-4dedc0059bf2.png">
+![RTAB_gazebo](https://user-images.githubusercontent.com/56476887/85308563-f67ef700-b4ce-11ea-86e4-24026a1fb5b7.png)
+
+
+![rtab_database](https://user-images.githubusercontent.com/56476887/85308559-f67ef700-b4ce-11ea-97cc-1adae002dd85.png)
+
+### Autonomous localization with RTAB
+![map_rtab2](https://user-images.githubusercontent.com/56476887/85308553-f41c9d00-b4ce-11ea-8501-8b949a51f639.png)
+![rtab_map](https://user-images.githubusercontent.com/56476887/85308556-f5e66080-b4ce-11ea-9316-92a3f3301f28.png)
 
 
