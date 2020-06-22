@@ -4,7 +4,7 @@ Codes written in python and simulations were done in gazebo.
 Husky robot was used in navigation from scratch. The following procedures are map creation, localization and path planning
 
 ### husky in it's environment
-
+![husky_in_room](https://user-images.githubusercontent.com/56476887/85301984-2d044400-b4c6-11ea-940b-04bb1cee70e1.png)
 
 ### map creation
 <img width="965" alt="turtlebot_maxurange_2" src="https://user-images.githubusercontent.com/56476887/85300974-e3672980-b4c4-11ea-8bdb-a4bc0cf307df.png">
