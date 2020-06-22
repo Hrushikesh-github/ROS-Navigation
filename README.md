@@ -26,14 +26,18 @@ But for this to work, proper configuration must be done
 
 ### SummitXL in a room
 ![summit_xl](https://user-images.githubusercontent.com/56476887/85306318-efa2b500-b4cb-11ea-854b-02c2e7dd0413.png)
-<img width="964" alt="summit_planning1" src="https://user-images.githubusercontent.com/56476887/85306326-f0d3e200-b4cb-11ea-8f2b-9bb34de76904.png">
 
-### Map of the room created
-![fetch_map](https://user-images.githubusercontent.com/56476887/85306337-f29da580-b4cb-11ea-99de-a81cbeed5e07.png)
+### Creating map
 <img width="963" alt="max_urange_7" src="https://user-images.githubusercontent.com/56476887/85306339-f29da580-b4cb-11ea-9a5e-23e5ca6ed035.png">
+
+### Map of the room
+![fetch_map](https://user-images.githubusercontent.com/56476887/85306337-f29da580-b4cb-11ea-99de-a81cbeed5e07.png)
 
 ### AMCL localization
 <img width="964" alt="summit_localization3" src="https://user-images.githubusercontent.com/56476887/85306334-f2050f00-b4cb-11ea-8c1d-475eca59dbbe.png">
+
+### Green line shows the local plan
+<img width="964" alt="summit_planning1" src="https://user-images.githubusercontent.com/56476887/85306326-f0d3e200-b4cb-11ea-8f2b-9bb34de76904.png">
 
 
 
