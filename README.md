@@ -49,11 +49,15 @@ A calibrated Kinect-like sensor compatible with openni_launch, openni2_launch or
 <img width="910" alt="sensors_rviz" src="https://user-images.githubusercontent.com/56476887/85308567-f7178d80-b4ce-11ea-80ff-4dedc0059bf2.png">
 ![RTAB_gazebo](https://user-images.githubusercontent.com/56476887/85308563-f67ef700-b4ce-11ea-86e4-24026a1fb5b7.png)
 
+overlapping yellow disks are marking/highlightning the key features of each image.This visual features used by RTAB-Map are using some popular techniques from computer vision including like SIFT, SURF, BRIEF, FAST, BRISK, ORB or FREAK. 
+pink discs indicate visual features that two images have in common
 
 ![rtab_database](https://user-images.githubusercontent.com/56476887/85308559-f67ef700-b4ce-11ea-97cc-1adae002dd85.png)
+<img width="912" alt="database1" src="https://user-images.githubusercontent.com/56476887/85310014-17e0e280-b4d1-11ea-8bdd-b2860b2f3b4e.png">
 
 ### Autonomous localization with RTAB
 ![map_rtab2](https://user-images.githubusercontent.com/56476887/85308553-f41c9d00-b4ce-11ea-8501-8b949a51f639.png)
 ![rtab_map](https://user-images.githubusercontent.com/56476887/85308556-f5e66080-b4ce-11ea-9316-92a3f3301f28.png)
 
 
+More content on RTAB can be found in one of my forked repositories
