@@ -24,5 +24,16 @@ Husky robot was used in navigation from scratch. The following procedures are ma
 But for this to work, proper configuration must be done
 <img width="548" alt="nav_object_detected2" src="https://user-images.githubusercontent.com/56476887/85300999-e8c47400-b4c4-11ea-870b-6bc2a61e5d1b.png">
 
+### SummitXL in a room
+![summit_xl](https://user-images.githubusercontent.com/56476887/85306318-efa2b500-b4cb-11ea-854b-02c2e7dd0413.png)
+<img width="964" alt="summit_planning1" src="https://user-images.githubusercontent.com/56476887/85306326-f0d3e200-b4cb-11ea-8f2b-9bb34de76904.png">
+
+### Map of the room created
+![fetch_map](https://user-images.githubusercontent.com/56476887/85306337-f29da580-b4cb-11ea-99de-a81cbeed5e07.png)
+<img width="963" alt="max_urange_7" src="https://user-images.githubusercontent.com/56476887/85306339-f29da580-b4cb-11ea-9a5e-23e5ca6ed035.png">
+
+### AMCL localization
+<img width="964" alt="summit_localization3" src="https://user-images.githubusercontent.com/56476887/85306334-f2050f00-b4cb-11ea-8c1d-475eca59dbbe.png">
+
 
 
