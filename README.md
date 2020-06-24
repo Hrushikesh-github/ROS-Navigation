@@ -17,6 +17,7 @@ Husky robot was used in navigation from scratch. The following procedures are ma
 
 ### The global costmap
 <img width="967" alt="rviz_global_costmap" src="https://user-images.githubusercontent.com/56476887/85301008-ec57fb00-b4c4-11ea-80f5-c9765127737c.png">
+
 ### The local costmap
 <img width="964" alt="rviz_local_costmap" src="https://user-images.githubusercontent.com/56476887/85301007-eb26ce00-b4c4-11ea-9835-b622e528e608.png">
 
